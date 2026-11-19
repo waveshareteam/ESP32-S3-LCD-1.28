@@ -7,5 +7,13 @@
   "arduino": {
     "core": "4.0.0",
     "fqbn": "esp32:esp32:esp32s3:FlashSize=16M,PSRAM=opi"
+  },
+  "overrides": {
+    "markdown_audit": {
+      "exclude_patterns": [
+        "examples/micropython/bitmap/README.md",
+        "examples/micropython/vector/README.md"
+      ]
+    }
   }
 }

@@ -1,12 +1,23 @@
-# ESP32-S3-LCD-1.28
+<div align="center">
+  <h1>ESP32-S3-LCD-1.28</h1>
+  <p><strong>ESP32-S3 development board with a 1.28-inch 240 × 240 round LCD and motion sensor</strong></p>
+  <p><strong>English</strong> | <a href="README_ZH.md">简体中文</a></p>
+  <p>
+    <a href="https://github.com/waveshareteam/ESP32-S3-LCD-1.28/actions/workflows/build.yml"><img alt="Build" src="https://github.com/waveshareteam/ESP32-S3-LCD-1.28/actions/workflows/build.yml/badge.svg"></a>
+    <a href="https://github.com/waveshareteam/ESP32-S3-LCD-1.28/releases/latest"><img alt="Latest Release" src="https://img.shields.io/github/v/release/waveshareteam/ESP32-S3-LCD-1.28"></a>
+    <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/waveshareteam/ESP32-S3-LCD-1.28"></a>
+  </p>
+  <p>
+    <a href="https://www.waveshare.com/esp32-s3-lcd-1.28.htm">🛒 Product</a> &middot;
+    <a href="firmware/">📦 Firmware</a> &middot;
+    <a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/">🧩 ESP-IDF</a> &middot;
+    <a href="examples/arduino/examples/">🔧 Arduino</a> &middot;
+    <a href="https://docs.waveshare.net/ESP32-S3-LCD-1.28/">📖 Documentation</a>
+  </p>
+  <p><img src="docs/images/esp32-s3-lcd-1.28.jpg" alt="ESP32-S3-LCD-1.28 development board" width="500"></p>
+</div>
 
-[简体中文](README_ZH.md)
-
-ESP32-S3 development board with a 1.28-inch 240 × 240 round LCD, QMI8658 motion sensor and CST816S touch controller.
-
-[Product](https://www.waveshare.com/esp32-s3-lcd-1.28.htm) · [Firmware](firmware/) · [Arduino examples](examples/arduino/examples/) · [Documentation](https://docs.waveshare.net/ESP32-S3-LCD-1.28/)
-
-![ESP32-S3-LCD-1.28 development board](docs/images/esp32-s3-lcd-1.28.jpg)
+---
 
 ## ✨ Overview
 

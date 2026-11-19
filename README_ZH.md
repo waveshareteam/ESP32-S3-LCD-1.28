@@ -1,12 +1,23 @@
-# ESP32-S3-LCD-1.28
+<div align="center">
+  <h1>ESP32-S3-LCD-1.28</h1>
+  <p><strong>搭载 1.28 英寸 240 × 240 圆形 LCD 和运动传感器的 ESP32-S3 开发板</strong></p>
+  <p><a href="README.md">English</a> | <strong>简体中文</strong></p>
+  <p>
+    <a href="https://github.com/waveshareteam/ESP32-S3-LCD-1.28/actions/workflows/build.yml"><img alt="构建" src="https://github.com/waveshareteam/ESP32-S3-LCD-1.28/actions/workflows/build.yml/badge.svg"></a>
+    <a href="https://github.com/waveshareteam/ESP32-S3-LCD-1.28/releases/latest"><img alt="最新版本" src="https://img.shields.io/github/v/release/waveshareteam/ESP32-S3-LCD-1.28"></a>
+    <a href="LICENSE"><img alt="许可证" src="https://img.shields.io/github/license/waveshareteam/ESP32-S3-LCD-1.28"></a>
+  </p>
+  <p>
+    <a href="https://www.waveshare.com/esp32-s3-lcd-1.28.htm">🛒 产品</a> &middot;
+    <a href="firmware/">📦 固件</a> &middot;
+    <a href="https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/">🧩 ESP-IDF</a> &middot;
+    <a href="examples/arduino/examples/">🔧 Arduino</a> &middot;
+    <a href="https://docs.waveshare.net/ESP32-S3-LCD-1.28/">📖 文档</a>
+  </p>
+  <p><img src="docs/images/esp32-s3-lcd-1.28.jpg" alt="ESP32-S3-LCD-1.28 开发板" width="500"></p>
+</div>
 
-[English](README.md)
-
-搭载 1.28 英寸 240 × 240 圆形 LCD、QMI8658 运动传感器和 CST816S 触摸控制器的 ESP32-S3 开发板。
-
-[产品页](https://www.waveshare.com/esp32-s3-lcd-1.28.htm) · [固件](firmware/) · [Arduino 示例](examples/arduino/examples/) · [文档](https://docs.waveshare.net/ESP32-S3-LCD-1.28/)
-
-![ESP32-S3-LCD-1.28 开发板](docs/images/esp32-s3-lcd-1.28.jpg)
+---
 
 ## ✨ 概述
 
