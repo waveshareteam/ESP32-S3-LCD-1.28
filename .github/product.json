@@ -1,0 +1,11 @@
+{
+  "target": "esp32s3",
+  "$schema": "https://raw.githubusercontent.com/waveshareteam/esp32-repo-template/v1/schema/product.schema.json",
+  "tier": 1,
+  "product": "ESP32-S3-LCD-1.28",
+  "product_url": "https://www.waveshare.com/esp32-s3-lcd-1.28.htm",
+  "arduino": {
+    "core": "4.0.0",
+    "fqbn": "esp32:esp32:esp32s3:FlashSize=16M,PSRAM=opi"
+  }
+}
